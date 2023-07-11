@@ -145,4 +145,21 @@ margin: 0 186px 24px 395px;
 .btn-secondary{
     margin: 0 417px 162px 603px;
 }
+/* insta section under main section */
+.insta{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-top: 290px;
+margin-bottom: 24px;
+}
+.insta-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 48px;
+}
 /* footer section work */
