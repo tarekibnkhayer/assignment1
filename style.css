@@ -34,10 +34,10 @@ margin: 0px 1046px 32px 240px;
 .btn-primary{
     border-radius: 8px;
 background: #E55473;
-margin: 0 1503px 147px 240px;
 padding: 20px 43px;
+margin: 0 1503px 147px 240px;
 }
-#shop-now{
+.btn-text{
     color: #FFF;
 font-size: 20px;
 font-weight: 700;
@@ -114,5 +114,35 @@ font-weight: 600;
 line-height: 35px;
 margin-top: 20px;
 padding: 0px 100px 87px 175px;
+}
+/* hot deal section */
+.btn-secondary{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+}
+.hot-deal{
+    display: flex;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+margin-top:128px ;
+justify-content: space-around;
+}
+.hot-deal-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin: 230px 215px 24px 423px;
+}
+.hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin: 0 186px 24px 395px;
+}
+.btn-secondary{
+    margin: 0 417px 162px 603px;
 }
 /* footer section work */
