@@ -47,6 +47,44 @@ font-weight: 700;
 
 }
 /* main section work */
+/* feature section under main section */
+.feature-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding: 1028px 764px 24px 764px;
+}
+.feature-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+/* flower pic section under main section */
+.flower-pic{
+    width: 1920px;
+height: 4867px;
+background: #FFF;
+display: flex;
 
-
+}
+.frame{
+    width: 464px;
+height: 538px;
+padding: 110px 78px 0px 76px;
+}
+.a{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.b{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+.c{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
 /* footer section work */
