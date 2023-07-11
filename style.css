@@ -1,0 +1,52 @@
+/* universal selector */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/* body tag work */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header section work */
+header{
+    background: rgba(229, 84, 115, 0.10);
+position: absolute;
+}
+.header-container{
+    display: flex;
+}
+.header-title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+margin: 0px 972px 32px 240px;
+padding-top: 197px;
+}
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin: 0px 1046px 32px 240px;
+}
+.btn-primary{
+    border-radius: 8px;
+background: #E55473;
+margin: 0 1503px 147px 240px;
+padding: 20px 43px;
+}
+#shop-now{
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+}
+.red-rose{width: 635px;
+    height: 800px;
+
+}
+/* main section work */
+
+
+/* footer section work */
