@@ -162,4 +162,12 @@ font-weight: 400;
 line-height: 30px;
 margin-bottom: 48px;
 }
+/* more flower pic under main  */
+.more-flower-pic-container{
+    display: flex;
+   margin-right: 800px;
+   margin-left: 800px;
+   justify-content: space-between;
+  
+}
 /* footer section work */
