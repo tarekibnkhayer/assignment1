@@ -97,6 +97,22 @@ margin-top:32px ;
     gap: 24px;
 
 }
-
-
+/* our special service info under main section */
+.special-service{
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+width: 1440px;
+height: 320px;
+display: flex;
+margin: auto;
+}
+.service-description{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+line-height: 35px;
+margin-top: 20px;
+padding: 0px 100px 87px 175px;
+}
 /* footer section work */
